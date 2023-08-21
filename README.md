@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shanmathi-s-1aa12a251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shanmathi-s-1aa12a251/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/shanmashanmathi6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/shanmashanmathi6" height="30" width="40" /></a><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fgirl-laptop&psig=AOvVaw3hjy_gIjo1zvVtLSTXlAuV&ust=1692682140067000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPjfzL-C7YADFQAAAAAdAAAAABAE)" alt="shanmathi" height="100" width="140" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/shanmashanmathi6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/shanmashanmathi6" height="30" width="40" /></a>
 
 </p>
 
