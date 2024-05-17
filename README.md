@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **web development project's**
 
-- 🌱 I’m currently learning **React**
-
 - 📫 How to reach me **shanmathi663@gmail.com**
 
 - 📄 Know about my experiences [https://shorturl.at/fuAW8](https://shorturl.at/fuAW8)
